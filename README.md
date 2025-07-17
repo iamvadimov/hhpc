@@ -1,7 +1,5 @@
 ## Smart Energy Management System
 
-Author: [Vadimov](mailto:iamvadimov&#64;gmail.com)
-
 Revision: 1.1
 
 Date: June 30, 2025
